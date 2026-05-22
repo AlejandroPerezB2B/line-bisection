@@ -1,5 +1,3 @@
-# line-bisection
-
 # Line Bisection Experiment
 
 ## Overview
