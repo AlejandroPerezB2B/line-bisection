@@ -146,7 +146,7 @@ lb_save_row.m
 
 ---
 
-# Initial Setup
+# Initial Setup (steps 1 to 3 to be run only once, to generate the files needed)
 
 ## 1. Open MATLAB
 
