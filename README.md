@@ -134,7 +134,7 @@ No Psychtoolbox is required for this version.
 The experiment folder should contain:
 
 ```text
-create_line_bisection_files.m
+create_line_bisection_files_v2.m
 make_trial_orders.m
 run_line_bisection_individual.m
 run_line_bisection_shared_host.m
@@ -164,7 +164,7 @@ addpath(genpath(pwd))
 Run:
 
 ```matlab
-create_line_bisection_files
+create_line_bisection_files_v2
 ```
 
 ---
